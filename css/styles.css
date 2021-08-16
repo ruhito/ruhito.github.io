@@ -1,0 +1,9 @@
+body {
+  background:linear-gradient(red,white);
+  height: 100vh;
+  color: white;
+  font-size: 100px;
+  text-align: center;
+  font-weight: bold;
+  line-height: 100vh;
+}
